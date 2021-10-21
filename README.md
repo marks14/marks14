@@ -1,4 +1,4 @@
-## Olá! Meu nome é fellype ou marks14
+## Olá! Meu nome é fellype e tenho 14 anos.
 
 - 🔭 Planejo trabalhar com desenvolvimento de software no futuro
 - 🌱 Estudante
