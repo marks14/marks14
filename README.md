@@ -8,3 +8,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marks14&show_icons=true&theme=merko)
 
+[Snake animation](https://github.com/masks14/marks14/blob/output/github-contribution-grid-snake.svg)
+
