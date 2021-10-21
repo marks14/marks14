@@ -1,4 +1,4 @@
-## Olá! Meu nome é fellype e tenho 14 anos.
+## Olá! Meu nome é fellype e tenho 13 anos.
 
 - 🔭 Planejo trabalhar com desenvolvimento de software no futuro
 - 🌱 Estudante
